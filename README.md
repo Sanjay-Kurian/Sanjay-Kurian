@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay-kurian" alt="sanjay-kurian" /></a> </p>
 
-- 🔭 I’m currently working on **Budget tracking**
+- 🔭 I’m currently working on **Budget tracking app**
 
 - 🌱 I’m currently learning **Docker**
 
-- 📫 How to reach me **sanjayvkurian@gamil.com**
+- 📫 How to reach me **sanjayvkurian@gmail.com**
 
 - 📄 Know about my experiences [https://sanjay-kurian.github.io/](https://sanjay-kurian.github.io/)
 
