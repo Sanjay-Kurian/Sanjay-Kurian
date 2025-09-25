@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sanjay Kurian</h1>
-<h3 align="center">Freelancer, AI Enthusiast</h3>
+<h3 align="center">Data Engineer, AI Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay-kurian" alt="sanjay-kurian" /></a> </p>
 
